@@ -1,0 +1,52 @@
+### Footprint positions - created on 2024-05-08T22:35:49+0200 ###
+### Printed by KiCad version 8.0.2-8.0.2-0~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                          Package                                                      PosX       PosY       Rot  Side
+C1        1u                           C_0603_1608Metric                                        140.9446   -92.7608  180.0000  top
+C2        1u                           C_0603_1608Metric                                        140.9316   -94.2594  180.0000  top
+C3        1u                           C_0603_1608Metric                                        141.5796  -100.2284  180.0000  top
+C4        1u                           C_0603_1608Metric                                        124.7524   -83.1850  180.0000  top
+C5        10u                          C_0603_1608Metric                                        144.6250   -63.6524   90.0000  top
+C6        10u                          C_0603_1608Metric                                        143.1250   -63.6500   90.0000  top
+C7        1u                           C_0603_1608Metric                                        124.7778   -89.0016    0.0000  top
+C8        100n                         C_0603_1608Metric                                        140.8938   -70.8914  180.0000  top
+C9        10u                          C_0603_1608Metric                                        122.6820   -80.3910  -90.0000  top
+D1        D_Schottky_Small             D_SOD-123                                                127.3048   -92.6348   90.0000  top
+D2        D_Schottky_Small             D_SOD-123                                                138.2268   -92.8624   90.0000  top
+D4        D_Schottky_Small             D_SOD-123                                                131.4704   -68.7070  180.0000  top
+D5        D_Schottky_Small             D_SOD-123                                                136.2202   -85.7758   90.0000  top
+D6        D_Schottky_Small             D_SOD-123                                                140.2080   -89.3064    0.0000  top
+D7        D_Schottky_Small             D_SOD-123                                                131.0132   -75.7174  180.0000  top
+J2        Conn_01x07_Female            PinSocket_1x07_P2.54mm_Vertical                          148.4372   -64.3328    0.0000  top
+Q1        BSS138                       SOT-23                                                   123.4948   -97.6630  -90.0000  top
+Q2        AO3401A                      SOT-23                                                   130.0988   -79.7814  180.0000  top
+Q3        AO3401A                      SOT-23                                                   129.5146   -72.3138  180.0000  top
+Q4        Q_Dual_NPN_NPN_E1B1C2E2B2C1  SOT-363_SC-70-6                                          138.6238   -65.0966    0.0000  top
+Q5        BSS138                       SOT-23                                                   140.1064   -84.0440   90.0000  top
+Q6        AO3401A                      SOT-23                                                   140.0810   -78.2043   90.0000  top
+R1        1M                           R_0603_1608Metric                                        123.5456   -94.7928    0.0000  top
+R2        4M7                          R_0603_1608Metric                                        127.2794   -96.6216   90.0000  top
+R3        10M                          R_0603_1608Metric                                        123.5710  -100.4570    0.0000  top
+R4        4M7                          R_0603_1608Metric                                        138.2522   -96.7486   90.0000  top
+R5        1M                           R_0603_1608Metric                                        140.9700   -91.2368    0.0000  top
+R7        1M                           R_0603_1608Metric                                        132.9182   -79.8068   90.0000  top
+R9        220                          R_0603_1608Metric                                        128.3208   -69.0372  -90.0000  top
+R10       220                          R_0603_1608Metric                                        136.1694   -81.8896   90.0000  top
+R11       1M                           R_0603_1608Metric                                        132.2070   -72.1106   90.0000  top
+R13       220                          R_0805_2012Metric                                        135.4836   -75.7174    0.0000  top
+R14       1M                           R_0603_1608Metric                                        140.0556   -87.0204  180.0000  top
+R15       1M                           R_0603_1608Metric                                        140.0556   -81.1507    0.0000  top
+R16       10k                          R_0603_1608Metric                                        138.6840   -67.3608  180.0000  top
+R17       10k                          R_0603_1608Metric                                        138.5824   -62.7888    0.0000  top
+R18       4M7                          R_0603_1608Metric                                        140.8938   -74.2950  180.0000  top
+R19       1M                           R_0603_1608Metric                                        140.8938   -72.5932    0.0000  top
+R20       10k                          R_0603_1608Metric                                        123.4948   -73.9648   90.0000  top
+R21       10k                          R_0603_1608Metric                                        125.0442   -73.9648   90.0000  top
+R22       10k                          R_0603_1608Metric                                        121.1326   -80.3910  -90.0000  top
+SW1       SW_Reed                      Molex_Micro-Fit_3.0_43045-0200_2x01_P3.00mm_Horizontal   132.7658   -91.8718  180.0000  top
+SW2       SW_SPDT                      SW_SPDT_PCM12                                            120.2360   -86.7410  -90.0000  top
+U1        MC74VHC1G86DFT2G             SOT-23-5                                                 141.1986   -97.1042  -90.0000  top
+U2        RT9013                       SOT-23-5                                                 124.9810   -86.1060   90.0000  top
+U4        RV-8263-C7                   C7                                                       121.5932   -76.5772  -90.0000  top
+## End

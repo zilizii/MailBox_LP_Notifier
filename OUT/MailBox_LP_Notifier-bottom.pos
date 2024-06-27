@@ -1,0 +1,16 @@
+### Module positions - created on Tue Aug 22 22:21:35 2023 ###
+### Printed by Pcbnew version (6.0.0)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val              Package                                       PosX       PosY       Rot  Side
+D3        LED              LED_0805_2012Metric                      -136.4488   -97.8916  180.0000  bottom
+J1        Conn_01x02_Male  JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical    -147.7612   -98.1290  180.0000  bottom
+J3        Conn_01x04_Male  JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal  -122.0586   -70.1322   90.0000  bottom
+R6        220              R_0805_2012Metric                        -136.4996   -95.3770    0.0000  bottom
+R8        10k              R_0603_1608Metric                        -131.3942   -83.7946  -90.0000  bottom
+R12       10k              R_0603_1608Metric                        -133.1214   -83.7946  -90.0000  bottom
+SW3       WAKEUP           SW_SPST_CK_RS282G05A3                    -143.2814   -88.3666   90.0000  bottom
+SW4       BOOT             SW_SPST_CK_RS282G05A3                    -136.2710   -88.3920   90.0000  bottom
+SW5       RESET            SW_SPST_CK_RS282G05A3                    -128.1176   -88.3920   90.0000  bottom
+U3        ESP32-WROOM-32   ESP32-WROOM-32                           -135.6360   -71.3154  180.0000  bottom
+## End
